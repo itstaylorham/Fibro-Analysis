@@ -1,25 +1,26 @@
-1a,I feel tired and unrefreshed when I wake from sleeping.
-2a,My muscles feel stiff and achy.
-3a,I have anxiety attacks.
-4a,I grind or clench my teeth.
-5a,I have problems with diarrhea and/or constipation.
-6a,I need help in performing my daily activities.
-7a,I am sensitive to bright lights.
-8a,I get tired very easily when I am physically active.
-9a,I feel pain all over my body.
-10a,I have headaches.
-11a,I feel discomfort in my bladder and/ or burning when I urinate.
-12a,I do not sleep well.
-13a,I have difficulty concentrating.
-14a,I have skin problems such as dryness itchiness or rashes.
-15a,Stress makes my physical symptoms get worse.
-16a,I feel sad or depressed.
-17a,I have low energy.
-18a,I have muscle tension in my neck and shoulders.
-19a,I have pain in my jaw.
-20a,Certain smells such as perfumes make me feel dizzy and nauseated.
-21a,I have to urinate frequently.
-22a,My legs feel uncomfortable and restless when I am trying to go to sleep at night.
-23a,I have difficulty remembering things.
-24a,I suffered trauma as a child.
-25a,I have pain in my pelvic area.
+item,question
+1,I feel tired and unrefreshed when I wake from sleeping.
+2,My muscles feel stiff and achy.
+3,I have anxiety attacks.
+4,I grind or clench my teeth.
+5,I have problems with diarrhea and/or constipation.
+6,I need help in performing my daily activities.
+7,I am sensitive to bright lights.
+8,I get tired very easily when I am physically active.
+9,I feel pain all over my body.
+10,I have headaches.
+11,I feel discomfort in my bladder and/ or burning when I urinate.
+12,I do not sleep well.
+13,I have difficulty concentrating.
+14,I have skin problems such as dryness itchiness or rashes.
+15,Stress makes my physical symptoms get worse.
+16,I feel sad or depressed.
+17,I have low energy.
+18,I have muscle tension in my neck and shoulders.
+19,I have pain in my jaw.
+20,Certain smells such as perfumes make me feel dizzy and nauseated.
+21,I have to urinate frequently.
+22,My legs feel uncomfortable and restless when I am trying to go to sleep at night.
+23,I have difficulty remembering things.
+24,I suffered trauma as a child.
+25,I have pain in my pelvic area.
